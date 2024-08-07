@@ -1,18 +1,10 @@
 PC:
   NAME: "lambda"
-<<<<<<< HEAD:deoxys/config/franka_left.yml
-  IP: 172.24.71.211
-
-NUC:
-  NAME: "civciv"
-  IP: 10.19.248.70
-=======
   IP: 192.16.1.2
 
 NUC:
   NAME: "nuc"
   IP: 192.16.1.3  
->>>>>>> 9be53f265f7c9c18d0d3b29100dd86d98865f74a:deoxys/config/franka_right.yml
   PUB_PORT: 5556
   SUB_PORT: 5555
   GRIPPER_PUB_PORT: 5558
