@@ -25,7 +25,7 @@ ARM_LOGGER:
     LEVEL: "info"
     USE: true
   FILE:
-    LOGGER_NAME: "logs/deoxys_control_arm_program.log"
+    LOGGER_NAME: "logs/deoxys_control_arm_program_left.log"
     LEVEL: "debug"
     USE: true
 
@@ -35,6 +35,6 @@ GRIPPER_LOGGER:
     LEVEL: "info"
     USE: true
   FILE:
-    LOGGER_NAME: "logs/deoxys_control_gripper_program.log"
+    LOGGER_NAME: "logs/deoxys_control_gripper_program_left.log"
     LEVEL: "debug"
     USE: true
