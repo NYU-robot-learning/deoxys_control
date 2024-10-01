@@ -3,7 +3,7 @@ PyYAML
 easydict
 google-api-python-client
 pybullet
-numpy
+numpy<2
 hidapi
 glfw
 numba
